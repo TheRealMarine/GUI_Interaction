@@ -12,18 +12,18 @@ GenericEntity : "{E58C42830756FF91}Prefabs/Structures/Signs/SignsWarning_Pole_Ba
     }
    }
    additionalActions {
+    SCR_FlushToilet "{596534A54A86CEE5}" {
+     ParentContextList {
+      "button"
+     }
+     Duration 1
+    }
     SCR_FlushToilet "{596534A57D9D03AA}" {
      ParentContextList {
       "button"
      }
      Duration 1
      m_SoundProject "{F4236AF5EB70F51B}scripts/Game/UserActions/SCR_FlushToilet.c"
-    }
-    SCR_InventoryAction "{596534A54A86CEE5}" {
-     ParentContextList {
-      "button"
-     }
-     Duration 1
     }
    }
   }
