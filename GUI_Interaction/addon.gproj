@@ -1,8 +1,0 @@
-GameProject {
- ID "GUIInteraction"
- GUID "596534AC445F6FC0"
- TITLE "GUI_Interaction"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}
